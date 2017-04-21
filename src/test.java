@@ -2,12 +2,11 @@ public class test {
 
 	public static void main(String[] args) {
 		Student s = new Student(); 
-		s.setId(49);
-		s.setName("billy");
-		System.out.println(s.getName() + s.getId() + "!");
+		s.setId(55);
+		System.out.println("!");
 	}
 	
-	public static int add(int a,int b) {
-		return a + b;
+	public static String g(int a,int b) {
+		return " " + a + b;
 	}
 }
