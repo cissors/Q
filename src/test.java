@@ -7,6 +7,6 @@ public class test {
 	}
 	
 	public static String g(int a,int b) {
-		return " " + a + b;
+		return "u " + a + b;
 	}
 }
