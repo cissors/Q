@@ -6,4 +6,8 @@ public class test {
 		s.setName("sad");
 		System.out.println(s.getName() + s.getId() + "!");
 	}
+	
+	public static int add(int a,int b) {
+		return a + b;
+	}
 }
